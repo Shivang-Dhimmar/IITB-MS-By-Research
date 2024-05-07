@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1712478839 source:g:\shivang\learning\cpp iitb ms by research\firstsimplecpp\triangle.cpp
+	<simplecpp>
+
+1712501826 source:g:\shivang\learning\cpp iitb ms by research\firstsimplecpp\polygon.cpp
+	<simplecpp>
+
+1712482061 source:g:\shivang\learning\cpp iitb ms by research\firstsimplecpp\innersquare.cpp
+	<simplecpp>
+
+1714992003 source:g:\shivang\learning\cpp iitb ms by research\firstsimplecpp\characterarray.cpp
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdio.h>
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+
+1714989046 source:g:\shivang\learning\cpp iitb ms by research\firstsimplecpp\programmingassignments.cpp
+	<iostream>
+	<iostream>
+	<bitset>
+	<iostream>
+	<iostream>
+	<iostream>
+	<iostream>
+
+1714732151 source:g:\shivang\learning\cpp iitb ms by research\firstsimplecpp\programmingtest.cpp
+	<iostream>
+	<iostream>
+	<iostream>
+	<string>
+	<iostream>
+	<iostream>
+	<iostream>
+
